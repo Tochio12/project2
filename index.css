@@ -64,11 +64,12 @@ body{
     outline: none;
 }
 
-.inputs input{
-    width: 90px;
+.inputs input {
+    width: 48%;
     padding: 10px;
     border: 1px solid;
     border-radius: 5px;
+    margin: 0 1%; 
 }
 
 .logo {
